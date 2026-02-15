@@ -34,7 +34,7 @@
 
   - **[ConsentFlow Debugger](https://github.com/ChristopherLandaverde/ConsentFlow-Debugger)** — Chrome extension for
   validating consent implementations
-  - **[Hoagie](https://github.com/ChristopherLandaverde/hoagie)** — Excel-based media planning toolkit built with
+  - **[Hoagie](https://hoagie.vercel.app/)** — Excel-based media planning toolkit built with
   Office.js
   - **[Rabbit](https://github.com/ChristopherLandaverde/rabbit)** — FastAPI service for analyzing marketing touchpoint
   data and applying attribution models
