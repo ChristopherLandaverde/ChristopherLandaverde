@@ -1,4 +1,4 @@
-# ChristopherLandaverde
+# ChristopherLandaverde.
 
   They use https://shields.io badges for social links. Add these to your README:
 
