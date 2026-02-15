@@ -38,5 +38,5 @@
   Office.js
   - **[Rabbit](https://github.com/ChristopherLandaverde/rabbit)** — FastAPI service for analyzing marketing touchpoint
   data and applying attribution models
-  - **[AdLinter](https://github.com/ChristopherLandaverde/adlinter)** — Free, privacy-first audit tool for GTM + Google
+  - **[AdLinter](https://adlinter.vercel.app/)** — Free, privacy-first audit tool for GTM + Google
   Ads that surfaces tracking issues before they cost you money
