@@ -7,7 +7,7 @@
    complex measurement challenges.
 
   [![Website](https://img.shields.io/badge/focosys.io-000?style=for-the-badge&logo=google-chrome&logoColor=white)](https
-  ://focosys.io)
+  :// www.focosys.io)
   
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://
   www.linkedin.com/in/christopherlandaverde)
