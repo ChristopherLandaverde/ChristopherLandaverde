@@ -36,3 +36,7 @@
   validating consent implementations
   - **[Hoagie](https://github.com/ChristopherLandaverde/hoagie)** — Excel-based media planning toolkit built with
   Office.js
+  - **[Rabbit](https://github.com/ChristopherLandaverde/rabbit)** — FastAPI service for analyzing marketing touchpoint
+  data and applying attribution models
+  - **[AdLinter](https://github.com/ChristopherLandaverde/adlinter)** — Free, privacy-first audit tool for GTM + Google
+  Ads that surfaces tracking issues before they cost you money
