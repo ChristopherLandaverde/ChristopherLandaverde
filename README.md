@@ -2,6 +2,8 @@
 
 I build tools for marketing analytics and martech — GTM/GA4 debugging, attribution modeling, tag auditing — plus local-first productivity tools on the side.
 
+**Resume:** [Digital Analytics & Integrations Specialist PDF](resume/Christopher-Landaverde-Classy-Llama-Digital-Analytics-Integrations-Specialist-Resume.pdf) · [DOCX](resume/Christopher-Landaverde-Classy-Llama-Digital-Analytics-Integrations-Specialist-Resume.docx)
+
 **Marketing & analytics tooling**
 - [adlinter](https://github.com/ChristopherLandaverde/adlinter) — privacy-first GTM + Google Ads audit tool, runs entirely in the browser
 - [ConsentFlow-Debugger](https://github.com/ChristopherLandaverde/ConsentFlow-Debugger) — Chrome extension for debugging GTM Consent Mode in real time
