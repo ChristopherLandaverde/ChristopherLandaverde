@@ -11,8 +11,10 @@ Founder of [Focosys](https://focosys.io/), an independent practice.
 
 **Tools**
 
-- [adlinter](https://github.com/ChristopherLandaverde/adlinter) — privacy-first GTM + Google Ads audit, runs entirely in the browser
+- [adlinter](https://github.com/ChristopherLandaverde/adlinter) — 82 checks against a GTM container export and Google Ads conversions. Privacy-first, runs entirely in the browser
 - [ConsentFlow-Debugger](https://github.com/ChristopherLandaverde/ConsentFlow-Debugger) — Chrome extension for debugging GTM Consent Mode in real time
-- [rabbit](https://github.com/ChristopherLandaverde/rabbit) — FastAPI service for marketing attribution modeling
+- [rabbit](https://github.com/ChristopherLandaverde/rabbit) — FastAPI service for marketing attribution modeling (parked)
+
+Field notes on how these failures happen ↗ [focosys.io](https://focosys.io/)
 
 [focosys.io](https://focosys.io/) · christopher@focosys.io
