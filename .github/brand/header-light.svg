@@ -5,6 +5,6 @@
     <path d="M56 38v18H38" />
     <path d="M26 56H8V38" />
   </g>
-  <path d="M100 48H1168" stroke="#d7d4ca" stroke-width="2" />
-  <circle cx="1184" cy="48" r="5" fill="#bd4633" />
+  <path d="M100 48H1168" stroke="#10231f" stroke-opacity="0.22" stroke-width="2" />
+  <circle cx="1184" cy="48" r="5" fill="#b83a2d" />
 </svg>
