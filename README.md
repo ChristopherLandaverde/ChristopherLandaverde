@@ -15,6 +15,7 @@ Founder of [Focosys](https://focosys.io/), an independent practice.
 
 - [adlinter](https://github.com/ChristopherLandaverde/adlinter): 82 checks against a GTM container export and Google Ads conversions. Privacy-first, runs entirely in the browser
 - [ConsentFlow-Debugger](https://github.com/ChristopherLandaverde/ConsentFlow-Debugger): Chrome extension for debugging GTM Consent Mode in real time
+- [trimtale](https://github.com/ChristopherLandaverde/trimtale): agentic GA4 setup. An in-page assistant sets up events through GTM, proves each one fires with real browser requests, and publishes only after your approval
 
 **↓ CRM handoff: where attribution is overwritten**
 
